@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\angular-application",
+    "\\angular-application\\src",
+    "\\angular-application\\src\\app",
+    "\\angular-application\\src\\app\\property",
+    "\\angular-application\\src\\app\\property\\property-card",
+    "\\angular-application\\src\\app\\property\\property-list"
+  ],
+  "SelectedNode": "\\angular-application\\src\\app\\property\\property-list\\property-list.component.ts",
+  "PreviewInSolutionExplorer": false
+}
